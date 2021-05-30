@@ -1,1 +1,1 @@
-# ipl-team-wise-stats
+# ipl-team-head-to-head-stats
